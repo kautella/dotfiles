@@ -1,5 +1,6 @@
 # dotfiles
 
+```
 locations: {
     startup.desktop: "~/.config/autostart/startup.desktop",
     startup: "~/.startup",
@@ -28,3 +29,4 @@ to-do: {
     implement-asdf: https://asdf-vm.com/,
     implement-chezmoi: https://github.com/twpayne/chezmoi
 }
+```
