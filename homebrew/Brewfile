@@ -1,0 +1,23 @@
+# Shell
+brew "powerlevel10k"
+brew "zsh-autosuggestions"
+
+# Editor
+brew "neovim"
+
+# Terminal multiplexer
+brew "tmux"
+brew "fzf"
+
+# Kubernetes
+brew "kubectl"
+brew "krew"
+
+# Cloud
+cask "gcloud-cli"
+brew "awscli"
+
+# Dev tools
+brew "pyenv"
+brew "tfenv"
+brew "go"
